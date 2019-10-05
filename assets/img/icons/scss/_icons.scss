@@ -1,0 +1,80 @@
+// Icons
+// -------------------------
+
+
+[data-icons8]:before,
+.icons8-android-os:before,
+.icons8-arrow-pointing-to-right:before,
+.icons8-back-arrow:before,
+.icons8-back-arrow-2:before,
+.icons8-black-twitter-logo:before,
+.icons8-collapse-arrow:before,
+.icons8-collapse-arrow-2:before,
+.icons8-collapse-arrow-3:before,
+.icons8-design:before,
+.icons8-design-2:before,
+.icons8-desk-lamp:before,
+.icons8-drop-down-arrow:before,
+.icons8-facebook:before,
+.icons8-facebook-2:before,
+.icons8-first-logo-of-instagram:before,
+.icons8-goal:before,
+.icons8-google:before,
+.icons8-google-code:before,
+.icons8-hamburger-menu:before,
+.icons8-instagram-camera:before,
+.icons8-left-arrow:before,
+.icons8-left-arrow-2:before,
+.icons8-map-pin:before,
+.icons8-mobile:before,
+.icons8-right-pointing-arrow:before,
+.icons8-right-pointing-arrow-2:before,
+.icons8-right-pointing-arrow-3:before,
+.icons8-screen:before,
+.icons8-source-code:before,
+.icons8-toothpaste:before,
+.icons8-twitter:before,
+.icons8-user-avatar:before,
+.icons8-visit:before,
+.icons8-youtube:before,
+.icons8-youtube-play-button-logo:before,
+{ @include icons8-font; }
+
+[data-icons8]:before { content: attr(data-icons8); }
+
+.icons8-android-os:before { content: $icons8-var-android-os; }
+.icons8-arrow-pointing-to-right:before { content: $icons8-var-arrow-pointing-to-right; }
+.icons8-back-arrow:before { content: $icons8-var-back-arrow; }
+.icons8-back-arrow-2:before { content: $icons8-var-back-arrow-2; }
+.icons8-black-twitter-logo:before { content: $icons8-var-black-twitter-logo; }
+.icons8-collapse-arrow:before { content: $icons8-var-collapse-arrow; }
+.icons8-collapse-arrow-2:before { content: $icons8-var-collapse-arrow-2; }
+.icons8-collapse-arrow-3:before { content: $icons8-var-collapse-arrow-3; }
+.icons8-design:before { content: $icons8-var-design; }
+.icons8-design-2:before { content: $icons8-var-design-2; }
+.icons8-desk-lamp:before { content: $icons8-var-desk-lamp; }
+.icons8-drop-down-arrow:before { content: $icons8-var-drop-down-arrow; }
+.icons8-facebook:before { content: $icons8-var-facebook; }
+.icons8-facebook-2:before { content: $icons8-var-facebook-2; }
+.icons8-first-logo-of-instagram:before { content: $icons8-var-first-logo-of-instagram; }
+.icons8-goal:before { content: $icons8-var-goal; }
+.icons8-google:before { content: $icons8-var-google; }
+.icons8-google-code:before { content: $icons8-var-google-code; }
+.icons8-hamburger-menu:before { content: $icons8-var-hamburger-menu; }
+.icons8-instagram-camera:before { content: $icons8-var-instagram-camera; }
+.icons8-left-arrow:before { content: $icons8-var-left-arrow; }
+.icons8-left-arrow-2:before { content: $icons8-var-left-arrow-2; }
+.icons8-map-pin:before { content: $icons8-var-map-pin; }
+.icons8-mobile:before { content: $icons8-var-mobile; }
+.icons8-right-pointing-arrow:before { content: $icons8-var-right-pointing-arrow; }
+.icons8-right-pointing-arrow-2:before { content: $icons8-var-right-pointing-arrow-2; }
+.icons8-right-pointing-arrow-3:before { content: $icons8-var-right-pointing-arrow-3; }
+.icons8-screen:before { content: $icons8-var-screen; }
+.icons8-source-code:before { content: $icons8-var-source-code; }
+.icons8-toothpaste:before { content: $icons8-var-toothpaste; }
+.icons8-twitter:before { content: $icons8-var-twitter; }
+.icons8-user-avatar:before { content: $icons8-var-user-avatar; }
+.icons8-visit:before { content: $icons8-var-visit; }
+.icons8-youtube:before { content: $icons8-var-youtube; }
+.icons8-youtube-play-button-logo:before { content: $icons8-var-youtube-play-button-logo; }
+
